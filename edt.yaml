@@ -1,0 +1,16 @@
+-   -   name: Truc 1
+        salle: K234
+        heure:
+            - 9h
+            - 10h
+    -   name: Truc 2
+        salle: F23
+        heure:
+            - 12h
+            - 13h30
+
+-   -   name: Jour d'apres
+        salle: JSP
+        heure:
+            - 8h
+            - 10h
